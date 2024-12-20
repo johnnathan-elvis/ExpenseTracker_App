@@ -1,0 +1,7 @@
+{
+    "cSpell.languageSettings": [],
+    "editor.codeActionsOnSave": [
+        "source.organizeImports", 
+        "source.fixAll",
+    ]
+}
